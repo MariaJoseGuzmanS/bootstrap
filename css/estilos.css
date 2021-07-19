@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.bg-primary {
+    background: #6209DB !important;
+}
+small {
+    color: #6209DB;
+}
+.text-primary {
+    color: #6209DB !important;
+}
+#hero {
+    height: 700px;
+}
+.btn-primary {
+    background: #6209DB !important;
+    border: solid #6209DB 1px; 
+    padding: 1em;
+}
+.navbar-nav li {
+    padding: 0 20px;
+}
+.content {
+    max-width: 500px;
+
+}
